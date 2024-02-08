@@ -1,2 +1,2 @@
 # Abstraction
-To demonstrate the abstract data
+To demonstrate the abstract data and interface
